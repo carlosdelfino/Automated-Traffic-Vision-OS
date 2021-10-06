@@ -1,0 +1,6 @@
+recursive-include automated_walk_bike_counter *.names
+recursive-include automated_walk_bike_counter *.txt
+
+include convert_weight.py
+include LICENSE
+include requirements.txt
